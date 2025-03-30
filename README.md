@@ -1,6 +1,6 @@
 # Move Optimizer Project 🐾
 
-A simple function that calculates the resultant movement based on given cardinal directions (\***\*NORTH**, **SOUTH**, _EAST_, **WEST\*\***) and returns the simplified path.
+A simple function that calculates the resultant movement based on given cardinal directions (*NORTH*, *SOUTH* *EAST*, *WEST*) and returns the simplified path.
 
 ## Original problem
 
