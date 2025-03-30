@@ -37,7 +37,7 @@ For example: The directions ["*NORTH*", "*SOUTH*", "*SOUTH*", "*EAST*", "*WEST*"
 
 ```python
 print(move("NORTH", "SOUTH", "EAST", "WEST", "NORTH", "WEST", "EAST"))
-# Output: ['**NORTH**']
+# Output: ['NORTH']
 ```
 
 ## Technologies Used 🛠️
